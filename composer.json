@@ -9,14 +9,14 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "sunke",
-      "email": "sunke@live.com",
+      "name": "sunken",
+      "email": "sunkejl@live.com",
       "homepage": "https://github.com/sunke",
       "role": "Developer"
     }
   ],
   "require": {
-    "php": ">=5.4",
+    "php": ">=5.4"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.1",
