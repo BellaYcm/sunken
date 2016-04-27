@@ -16,6 +16,7 @@ class Help
 
     public function test()
     {
+        $foo=80;
         return 123;
     }
 
