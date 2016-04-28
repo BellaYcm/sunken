@@ -1,18 +1,11 @@
 {
   "name": "sunken/help",
   "description": "Sunken Help Package",
-  "keywords": [
-    "sunken",
-    "help"
-  ],
-  "homepage": "https://github.com/sunke",
   "license": "MIT",
   "authors": [
     {
       "name": "sunken",
-      "email": "sunkejl@live.com",
-      "homepage": "https://github.com/sunke",
-      "role": "Developer"
+      "email": "sunkejl@live.com"
     }
   ],
   "minimum-stability": "dev",
